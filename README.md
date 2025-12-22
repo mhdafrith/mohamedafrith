@@ -1,80 +1,82 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image.png" width="100%" alt="AI Engineer Banner"/>
+  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" 
+       alt="AI Engineer GitHub Banner" width="100%">
 </div>
 
 <!-- ===================== INTRO ===================== -->
 <h1>
-  👋 Hi, I'm Mohamed Afrith
-  <img align="right" src="https://komarev.com/ghpvc/?username=mohamedafrith&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+       width="30px"/> 
+  Hi, I'm Mohamed Afrith
+  <img align="right"
+       src="https://komarev.com/ghpvc/?username=mhdafrith&label=Profile%20Views&color=0e75b6&style=flat" />
 </h1>
 
 <h3>GenAI • AI/ML Engineer • Data Scientist</h3>
+
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698"
+       width="280px" align="right" alt="AI developer animation"/>
+</div>
 
 > Turning documents, data, and language into **production-grade AI systems**
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
 ## 🧠 About Me
 
-- 🎓 **MBA** (SRM IST) + **Master’s in Data Science** (GUVI – IITM Pravartak)
-- 🧑‍💻 **AI Engineer Trainee @ Recykal** (Industry DocAI systems)
-- 🤖 Specialized in **GenAI, RAG, LLM pipelines, Document AI**
-- 📦 Built systems processing **60K+ documents/month**
-- 🏆 **Best Innovation Award** – National ML Datathon
-- 📍 Tamil Nadu, India
+<ul>
+  <li>🎓 <strong>MBA</strong> (SRM IST) + <strong>Master’s in Data Science</strong> (GUVI – IITM Pravartak)</li>
+  <li>🧑‍💻 AI Engineer Trainee @ <strong>Recykal</strong> (Industry-scale DocAI systems)</li>
+  <li>🤖 Specialized in <strong>GenAI, RAG, LLM pipelines, Document AI</strong></li>
+  <li>📦 Built systems processing <strong>60K+ documents/month</strong></li>
+  <li>🏆 <strong>Best Innovation Award</strong> – National ML Datathon</li>
+  <li>📍 Tamil Nadu, India</li>
+</ul>
 
 ---
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-## 🚀 What I’m Focused On
+## 🚀 What I’m Currently Working On
 
-- 🧾 **Document AI & Intelligent Extraction** (Donut, OCR, LLMs)
-- 🔍 **RAG Systems** (Naive → Advanced → Modular)
+- 🧾 **Document Intelligence & Data Extraction** (Donut, OCR, LLMs)
+- 🔍 **RAG Systems** — Naive → Advanced → Modular
 - 🧠 **LLM-powered chatbots** with evaluation (RAGAS)
 - ☁️ **Cloud-native AI deployments** (AWS, Azure, GCP)
 - ⚙️ **Automation & monitoring** for AI pipelines
 
 ---
 
-<!-- ===================== HIGHLIGHT PROJECTS ===================== -->
 ## 📌 Highlight Projects
 
 ### 🧾 Intelligent Document Understanding (GenAI)
-- Built a **multi-layer DocAI pipeline** using Donut + LlamaParse + OCR fallback  
-- Achieved **92% extraction accuracy** with multi-source validation  
-- Scaled to **60K+ docs/month**, boosting productivity **7×**
+- Multi-layer DocAI pipeline using Donut + LlamaParse + OCR fallback  
+- **92% extraction accuracy** with multi-source validation  
+- **7× productivity boost**, scaled to 60K+ docs/month  
 
 ### ⚠️ Hazardous Waste Disposal RAG Chatbot
-- Domain-specific RAG system using **LangChain + ChromaDB**
-- Improved retrieval precision by **~45%**
-- Evaluated responses using **RAGAS** (92% relevance)
+- Domain-specific RAG using **LangChain + ChromaDB**
+- Retrieval precision improved by **~45%**
+- Evaluated with **RAGAS (92% relevance)**
 
 ### 📊 Automated Log Analytics Dashboard
-- End-to-end pipeline using **Python, AWS S3, n8n**
-- Real-time monitoring via **Looker Studio**
+- Python + AWS S3 + n8n automation
+- Real-time monitoring via Looker Studio
 - Reduced manual troubleshooting significantly
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming & Core
+### 👨‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
-### 🤖 AI / GenAI
+### 🤖 GenAI & ML
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A5ACD?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-### 🧠 LLMs & Embeddings
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat)
-![Gemini](https://img.shields.io/badge/Gemini-blue?style=flat)
-![Llama](https://img.shields.io/badge/Llama-9146FF?style=flat)
 
 ### 📦 Vector Databases
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
@@ -87,33 +89,33 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat)
 
 ---
+
+<!-- ===================== SNAKE ===================== -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/mhdafrith/snake_animation/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" 
       srcset="https://raw.githubusercontent.com/mhdafrith/snake_animation/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" 
+    <img alt="github contribution snake" 
       src="https://raw.githubusercontent.com/mhdafrith/snake_animation/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
+---
 
-
-<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedafrith&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdafrith&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedafrith" />
+  <img src="https://streak-stats.demolab.com?user=mhdafrith" />
 </p>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
 ## 🌍 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -122,4 +124,4 @@
 
 ---
 
-⭐ *Designing AI systems that are accurate, scalable, and production-ready.*
+⭐ <i>Designing AI systems that are accurate, scalable, and production-ready.</i>
