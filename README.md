@@ -119,7 +119,7 @@
 ## 🌍 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-afrit-s/)
-[![Portfolio]()](https://afrith-portfolio-sigma.vercel.app)
+[![Portfolio](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.dreamstime.com%2Fportfolio-icon-badge-style-white-background-portfolio-icon-badge-style-image120988366&ved=0CBUQjRxqFwoTCPC8u7_C0pEDFQAAAAAdAAAAABAI&opi=89978449)](https://afrith-portfolio-sigma.vercel.app)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium)](https://medium.com/@mafrith007)
 
 ---
