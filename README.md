@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" 
+  <img src="https://github.com/mhdafrith/snake_animation/assets/7456DF6D-8133-4007-946A-D8E0CB323B0B.jpg" 
        alt="AI Engineer GitHub Banner" width="100%">
 </div>
 
